@@ -1,0 +1,23 @@
+name: AK Photography
+favicon: null
+layout_spectrum: 0.49300769926048815
+typography_spectrum: 0.47240759641863406
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5768951424397528
+  lightness: 0.7766062782611698
+  saturation: 0.5932031807024032
+  rhythmicContrast: 0.5755705437622964
+purpose: []
