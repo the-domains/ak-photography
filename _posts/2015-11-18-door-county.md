@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-18T00:29:16.581Z'
-dateModified: '2015-11-18T00:29:04.248Z'
+datePublished: '2015-11-18T00:30:09.182Z'
+dateModified: '2015-11-18T00:29:16.581Z'
 title: Door County
 authors: []
 publisher:
