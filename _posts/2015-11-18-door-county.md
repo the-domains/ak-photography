@@ -6,11 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-18T14:23:21.674Z'
-dateModified: '2015-11-18T14:23:18.827Z'
+datePublished: '2015-11-20T01:11:51.858Z'
+dateModified: '2015-11-20T00:46:59.228Z'
 title: Door County
 sourcePath: _posts/2015-11-18-door-county.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
