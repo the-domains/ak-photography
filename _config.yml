@@ -18,7 +18,7 @@ opengraph:
 color:
   brandColors: []
   brandStrength: 0
-  lightness: 0.7766062782611698
-  saturation: 0.5932031807024032
-  rhythmicContrast: 0.5755705437622964
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
