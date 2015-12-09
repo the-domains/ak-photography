@@ -1,7 +1,7 @@
 name: AK Photography
 favicon: null
 layout_spectrum: 0.37431
-typography_spectrum: 0.50108
+typography_spectrum: 0.2533
 title: Andy Kulis Photography
 cta:
   domain: null
@@ -18,7 +18,7 @@ opengraph:
 color:
   brandColors: []
   brandStrength: 0
-  lightness: 0.4375
-  saturation: 0.1875
-  rhythmicContrast: 0.25
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
