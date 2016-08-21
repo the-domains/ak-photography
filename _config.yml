@@ -1,4 +1,3 @@
-layout_spectrum: 0.6324087709654123
 typography_spectrum: 0.24054865958169103
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6324087709654123
 analytics:
   google: null
   facebook: null
@@ -24,6 +24,7 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/10d39987-d63f-4026-b977-ff637b55f770.png
 title: andy kulis photos
 purpose: []
