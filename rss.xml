@@ -4,8 +4,22 @@
         <description><![CDATA[andy kulis photos]]></description>
         <link>http://andykulisphotography.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 14:00:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 14:06:56 GMT</lastBuildDate>
         <atom:link href="http://andykulisphotography.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/beeef4b459bd245849467d97e3d0805c5379c38d.jpg">]]></description>
+            <link>http://andykulisphotography.com/68cbb8e8-eedb-4ee5-bf10-781b971fceb5/index.html</link>
+            <guid isPermaLink="false">68cbb8e8-eedb-4ee5-bf10-781b971fceb5</guid>
+            <pubDate>Sun, 21 Aug 2016 14:06:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65622fdb-3a04-4be8-b2c0-9b147dcc7921.jpg">]]></description>
+            <link>http://andykulisphotography.com/00061243-0e3c-4a8a-a9b9-759c56b1dbcd/index.html</link>
+            <guid isPermaLink="false">00061243-0e3c-4a8a-a9b9-759c56b1dbcd</guid>
+            <pubDate>Sun, 21 Aug 2016 14:01:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Landscapes]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9345253d09a1d7b5cb46bddf7dbdeeaa2455831a.jpg">]]></description>
@@ -19,13 +33,6 @@
             <link>http://andykulisphotography.com/7d0b2516-a3fe-4885-b5d3-caee2b9a366f/index.html</link>
             <guid isPermaLink="false">7d0b2516-a3fe-4885-b5d3-caee2b9a366f</guid>
             <pubDate>Tue, 22 Dec 2015 01:28:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/586d2b10-1b81-443e-9002-c61205143885.jpg" alt="" title="">]]></description>
-            <link>http://andykulisphotography.com/68cbb8e8-eedb-4ee5-bf10-781b971fceb5/index.html</link>
-            <guid isPermaLink="false">68cbb8e8-eedb-4ee5-bf10-781b971fceb5</guid>
-            <pubDate>Wed, 09 Dec 2015 02:37:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
