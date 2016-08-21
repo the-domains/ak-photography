@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Andy Kulis Photography]]></title>
-        <description><![CDATA[Andy Kulis Photography]]></description>
-        <link>https://thegrid.ai/ak-photography/</link>
+        <title><![CDATA[andy kulis photos]]></title>
+        <description><![CDATA[andy kulis photos]]></description>
+        <link>http://andykulisphotography.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 05:32:13 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/ak-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Aug 2016 14:00:45 GMT</lastBuildDate>
+        <atom:link href="http://andykulisphotography.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Landscapes]]></title>
-            <description><![CDATA[<article><h1>Landscapes</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9345253d09a1d7b5cb46bddf7dbdeeaa2455831a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/ak-photography/48aad20d-76d3-474a-83b4-1995e8bd207a/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9345253d09a1d7b5cb46bddf7dbdeeaa2455831a.jpg">]]></description>
+            <link>http://andykulisphotography.com/48aad20d-76d3-474a-83b4-1995e8bd207a/index.html</link>
             <guid isPermaLink="false">48aad20d-76d3-474a-83b4-1995e8bd207a</guid>
-            <pubDate>Sun, 06 Mar 2016 05:31:55 GMT</pubDate>
+            <pubDate>Sun, 21 Aug 2016 13:59:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef9d0e216aa8ec96a76b26879f90f8eeb9ac45c3.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ak-photography/7d0b2516-a3fe-4885-b5d3-caee2b9a366f/index.html</link>
+            <link>http://andykulisphotography.com/7d0b2516-a3fe-4885-b5d3-caee2b9a366f/index.html</link>
             <guid isPermaLink="false">7d0b2516-a3fe-4885-b5d3-caee2b9a366f</guid>
             <pubDate>Tue, 22 Dec 2015 01:28:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/586d2b10-1b81-443e-9002-c61205143885.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ak-photography/68cbb8e8-eedb-4ee5-bf10-781b971fceb5/index.html</link>
+            <link>http://andykulisphotography.com/68cbb8e8-eedb-4ee5-bf10-781b971fceb5/index.html</link>
             <guid isPermaLink="false">68cbb8e8-eedb-4ee5-bf10-781b971fceb5</guid>
             <pubDate>Wed, 09 Dec 2015 02:37:14 GMT</pubDate>
         </item>
