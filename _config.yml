@@ -25,11 +25,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: About Me
-    id: 8e5d6db3-9ea2-4d82-8dcc-9e1d0f92a321
-    type: content
   - name: Arch
     id: 68cbb8e8-eedb-4ee5-bf10-781b971fceb5
+    type: content
+  - name: About Me
+    id: 8e5d6db3-9ea2-4d82-8dcc-9e1d0f92a321
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c03c9aa7-e70d-4fdd-bdc8-6f30cf8650da.png
