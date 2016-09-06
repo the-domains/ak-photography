@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About Me
+    id: 8e5d6db3-9ea2-4d82-8dcc-9e1d0f92a321
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/10d39987-d63f-4026-b977-ff637b55f770.png
 title: andy kulis photos
