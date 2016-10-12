@@ -10,6 +10,7 @@ color:
   lightness: 0.5920038556214422
   saturation: 0.7022520666942
   rhythmicContrast: 0.5498835758771747
+github: true
 opengraph:
   image: null
   type: null
@@ -19,14 +20,17 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Andy Kulis Photography
+name: andy kulis photography
 cta:
   domain: null
   bucket: null
   version: null
 navigation:
-  - name: Arch
+  - name: yo
     id: 68cbb8e8-eedb-4ee5-bf10-781b971fceb5
+    type: content
+  - name: Landscapes
+    id: 48aad20d-76d3-474a-83b4-1995e8bd207a
     type: content
   - name: About Me
     id: 8e5d6db3-9ea2-4d82-8dcc-9e1d0f92a321
@@ -34,4 +38,6 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c03c9aa7-e70d-4fdd-bdc8-6f30cf8650da.png
 title: andy kulis photos
+content: []
+description: i freeze time
 purpose: []
